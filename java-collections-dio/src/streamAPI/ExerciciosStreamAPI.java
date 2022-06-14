@@ -1,9 +1,7 @@
 package streamAPI;
 
 import java.util.*;
-import java.util.function.DoubleConsumer;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class ExerciciosStreamAPI {
     public static void main(String[] args) {
