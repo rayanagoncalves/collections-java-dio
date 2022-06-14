@@ -2,7 +2,7 @@ package map;
 
 import java.util.*;
 
-public class Exercicio01 {
+public class ExercicioProposto01 {
     public static void main(String[] args) {
         System.out.println("Crie um dicionário e relacione os estados e suas populações");
         var estadosNe = new HashMap<String, Integer>(){{
